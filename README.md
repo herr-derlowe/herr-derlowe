@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a [your job title/occupation] based in [your location]. I have a passion for [your interests/hobbies] and enjoy [what you enjoy doing]. In my free time, you can usually find me [what you like to do in your free time].
+I'm a Software Engineer based in a called Earth. I have a passion for web backend (a little of front-end too), cryptography and game development. In my free time, you can usually find me reading about human nature, security or game theory and design.
 
 ## Skills
 
