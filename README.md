@@ -2,14 +2,16 @@
 
 ## About Me
 
-I'm a Software Engineer based in a called Earth. I have a passion for web backend (a little of front-end too), cryptography and game development. In my free time, you can usually find me reading about human nature, security or game theory and design.
+I'm a Software Engineer based in a called Earth. I have a passion for web backend (a little of front-end too), cryptography and game development. In my free time, you can usually find me reading about human nature, security or game theory and design. Sometimes you might even find me doing some coding challenges or mini-projects.
 
 ## Skills
 
 - Programming languages:
    
-  ![Static Badge](https://img.shields.io/badge/C%20Sharp-blue?logo=csharp) ![Static Badge](https://img.shields.io/badge/JavaScript-grey?logo=javascript) ![Static Badge](https://img.shields.io/badge/Python-green?logo=python) ![Static Badge](https://img.shields.io/badge/Rust-orange?logo=rust)
+  ![Static Badge](https://img.shields.io/badge/C%20Sharp-blue?logo=csharp) ![Static Badge](https://img.shields.io/badge/C-blue?logo=c) ![Static Badge](https://img.shields.io/badge/C++-purple?logo=cplusplus) ![Static Badge](https://img.shields.io/badge/JavaScript-grey?logo=javascript) ![Static Badge](https://img.shields.io/badge/Python-green?logo=python) ![Static Badge](https://img.shields.io/badge/Rust-orange?logo=rust)
   - C#
+  - C
+  - C++
   - Javascript
   - Python
   - Rust
